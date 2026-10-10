@@ -1,0 +1,19 @@
+
+.env
+
+# Environment variables and secrets
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Temporary code runner file
+tempCodeRunnerFile.python
+
+# Pytest cache
+.pytest_cache/
+
+# Virtual environment (if created inside this project)
+.venv/
+venv/
